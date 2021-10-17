@@ -1,6 +1,8 @@
 # p100_e-commerce
 This is a project on e-commerce data. Categorizing products, finding bestsellers and popular bundles.
 
+The language I used for this is **Python**, some of the libraries I used are *pandas*, *matplotlib* and *seaborn*.
+
 To view all the graphs in the notebook I recommend opening the nbviewer directly. Otherwise it might not load immediatly and you won't be able to see any graphs:
 
 https://nbviewer.org/github/laura-str/p100_e-commerce/blob/5c88628cf777c2f2b355b561017703764e8a56d3/P100_e-commerce_Final_Project.ipynb
