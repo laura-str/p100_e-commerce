@@ -1,7 +1,7 @@
 # p100_e-commerce
 This is a project on e-commerce data. Categorizing products, finding bestsellers and popular bundles.
 
-The language I used for this is **Python**, some of the libraries I used are *pandas*, *matplotlib* and *seaborn*.
+The language I used for this is **Python**, some of the libraries I used are *pandas*, *matplotlib*, *seaborn*, *plotly* and *scipy*.
 
 To view all the graphs in the notebook I recommend opening the nbviewer directly. Otherwise it might not load immediatly and you won't be able to see any graphs:
 
