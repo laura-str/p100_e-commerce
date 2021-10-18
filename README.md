@@ -3,8 +3,11 @@ This is a project on e-commerce data. Categorizing products, finding bestsellers
 
 The language I used for this is **Python**, some of the libraries I used are *pandas*, *matplotlib*, *seaborn*, *plotly* and *scipy*.
 
-To view all the graphs in the notebook I recommend opening the nbviewer directly. Otherwise it might not load immediately and you won't be able to see or interact with any graphs:<br>
-https://nbviewer.org/github/laura-str/p100_e-commerce/blob/5c88628cf777c2f2b355b561017703764e8a56d3/P100_e-commerce_Final_Project.ipynb
+To view all the graphs in the notebook I recommend opening the nbviewer directly. Otherwise it might not load immediately and you won't be able to see or interact with any graphs:
+<br>
+
+[**View notebook in the nbviewer (online)**](https://nbviewer.org/github/laura-str/p100_e-commerce/blob/5c88628cf777c2f2b355b561017703764e8a56d3/P100_e-commerce_Final_Project.ipynb)
+
 
 <br>
 
